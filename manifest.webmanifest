@@ -1,0 +1,1 @@
+{"name":"Errorgram","short_name":"Errorgram","description":"Тёмный мессенджер Errorgram","start_url":"./","display":"standalone","background_color":"#0d0b11","theme_color":"#100d16","orientation":"portrait-primary","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
